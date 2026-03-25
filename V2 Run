@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FL4SH-1/FL4SH-Hub/refs/heads/main/FL4Sh_V2"))()
